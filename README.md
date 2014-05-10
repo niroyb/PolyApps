@@ -21,6 +21,7 @@ Schedules
 [PolyHoraires](http://www.polyhoraires.com/) | Danny K. | Genératuer d'horaire simplifié | Web app
 [icanhasical](http://icanhasical.appspot.com/) | Gab Royer | Crée un fichier ical importable | Web app
 [polytocal](http://polytocal.appspot.com/) | Gab Royer / [Chris911](https://github.com/Chris911) | Version à jour de iCanHashiCal. | Web app
+[PolyScheduleToGoogleCalendar](https://bitbucket.org/timrousselet/polyscheduletogooglecalendar/downloads) | Tim R. | Envoie votre horaire vers Google Calendar en passant directement par l'API | Bon vieux software
 
 Moodle
 --------
