@@ -9,7 +9,7 @@ Final grades notifications
  Link          | Author         | Type 
 :------------- | :------------- | :------
 [polyNotify](https://github.com/odrouin/polynotify) | odrouin | Java jar
-[polyNotify](https://github.com/Chris911/PolyNotify) | Chris911 | ruby gem
+[polyNotify](https://github.com/Chris911/PolyNotify) | [Chris911](https://github.com/Chris911) | ruby gem
 [PolyNotesFinales](https://github.com/niroyb/PolyNotesFinales) | niroyb | python script
 
 Schedules
@@ -20,7 +20,7 @@ Schedules
 [GenerateurHoraire AEP](http://www.horaires.aep.polymtl.ca/) | Pierre-Marc Fournier | Cree un horaire | Web app
 [PolyHoraires](http://www.polyhoraires.com/) | Danny K. | Genératuer d'horaire simplifié | Web app
 [icanhasical](http://icanhasical.appspot.com/) | Gab Royer | Crée un fichier ical importable | Web app
-
+[polytocal](http://polytocal.appspot.com/) | Gab Royer / [Chris911](https://github.com/Chris911) | Version à jour de iCanHashiCal. | Web app
 
 Moodle
 --------
