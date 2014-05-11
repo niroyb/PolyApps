@@ -9,26 +9,26 @@ Final grades notifications
  Link          | Author         | Type 
 :------------- | :------------- | :------
 [polyNotify](https://github.com/odrouin/polynotify) | odrouin | Java jar
-[polyNotify](https://github.com/Chris911/PolyNotify) | [Chris911](https://github.com/Chris911) | ruby gem
-[PolyNotesFinales](https://github.com/niroyb/PolyNotesFinales) | niroyb | python script
+[polyNotify](https://github.com/Chris911/PolyNotify) | [Chris911] | ruby gem
+[PolyNotesFinales](https://github.com/niroyb/PolyNotesFinales) | [niroyb] | python script
 
 Schedules
 ---------
  Link          | Author         | Description | Type 
 :------------- | :------------- | :---------- | :--------
-[PolyHoraireFormat](https://github.com/niroyb/PolyHoraireFormat) | niroyb | Rend l'horaire plus beau | python script
+[PolyHoraireFormat](https://github.com/niroyb/PolyHoraireFormat) | [niroyb] | Rend l'horaire plus beau | python script
 [GenerateurHoraire AEP](http://www.horaires.aep.polymtl.ca/) | Pierre-Marc Fournier | Cree un horaire | Web app
 [PolyHoraires](http://www.polyhoraires.com/) | Danny K. | Genératuer d'horaire simplifié | Web app
 [icanhasical](http://icanhasical.appspot.com/) | Gab Royer | Crée un fichier ical importable | Web app
-[polytocal](http://polytocal.appspot.com/) | Gab Royer / [Chris911](https://github.com/Chris911) | Version à jour de iCanHashiCal. | Web app
-[PolyScheduleToGoogleCalendar](https://bitbucket.org/timrousselet/polyscheduletogooglecalendar/downloads) | Tim R. | Envoie votre horaire vers Google Calendar en passant directement par l'API | Bon vieux software
+[polytocal](http://polytocal.appspot.com/) | Gab Royer / [Chris911] | Version à jour de iCanHashiCal. | Web app
+[PolySchedule To GoogleCalendar](https://bitbucket.org/timrousselet/polyscheduletogooglecalendar) | Tim R. | Envoie votre horaire vers Google Calendar en passant directement par l'API | C# with UI + [.exe](https://bitbucket.org/timrousselet/polyscheduletogooglecalendar/downloads)
 
 Moodle
 --------
  Link          | Author         | Description | Type 
 :------------- | :------------- | :---------- | :--------
 [MoodleR](https://github.com/dkhalife/MoodleR) | dkhalife | Moodle data scrapper | [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/moodler/)
-[ScrapMoodle](https://github.com/niroyb/ScrapMoodle) | niroyb | Moodle data scrapper | python script + [windows release](https://github.com/niroyb/ScrapMoodle/releases)
+[ScrapMoodle](https://github.com/niroyb/ScrapMoodle) | [niroyb] | Moodle data scrapper | python script + [windows release](https://github.com/niroyb/ScrapMoodle/releases)
 
 
 Other
@@ -39,7 +39,7 @@ Other
 [PolyDossier](https://github.com/malavv/PolyDossier) | Max Lavigne | Refacture du dossier étudiant | Web app
 [poly-seuils-notes](https://github.com/EtiDuc/poly-seuils-notes) | EtiDuc | Analyse resultats pour determiner les seuils | python script
 [biciklo](https://github.com/simark/biciklo) | SiMark | Système d'inventaire pour l'atelier Biciklo | Backend + Frontend
-
+[PolyHeaders](https://github.com/Nic007/PolyHeaders) | Nic007 | Génère les en-têtes des .h selon le guide de codage de poly | cpp
 
 Modification request
 --------------
@@ -49,3 +49,6 @@ Modification request
 3. Commit changes (`git commit -am 'I did this ...'`)
 4. Push to the branch (`git push origin my-branch`)
 5. Create new Pull Request
+
+[Chris911]:https://github.com/Chris911
+[niroyb]:https://github.com/niroyb
